@@ -5,3 +5,5 @@
 
 웹 구현 및 배포 = Streamlit 활용
 데이터 시각화 = matplotlib
+
+python -m streamlit run app.py
